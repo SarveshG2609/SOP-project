@@ -98,10 +98,6 @@ class _QuizWinBioState extends State<QuizWinBio> {
 
   _QuizWinBioState({required this.done, required this.text ,   required this.a ,   required this.b ,   required this.c ,   required this.d ,   required this.ascore ,   required this.bscore ,   required this.cscore ,   required this.dscore ,   required this.ap1 ,   required this.ap2 ,   required this.ap3 ,   required this.bp1 ,   required this.bp2 ,   required this.bp3 ,   required this.cp1,   required this.cp2,   required this.cp3,   required this.dp1,   required this.dp2,   required this.dp3,   required this.anext,   required this.bnext,   required this.cnext,   required this.dnext});
 
-  List<double> p1arr=[];
-  List<double> p2arr=[];
-  List<double> p3arr=[];
-
 
   var p1;
   var p2;
